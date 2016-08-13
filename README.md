@@ -20,3 +20,4 @@ open http://localhost:3000
     triggerRule: false  //如果不在当前月份，是否触发handleDayClick事件
     datas:[{},{}]//数据对象
 
+### 例子见examples/basic  
