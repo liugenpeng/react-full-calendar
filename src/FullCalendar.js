@@ -9,7 +9,6 @@ export default class  FullCalendar extends Component {
         defaultType: 'date',
         fullscreen: true,
         prefixCls: 'rc-calendar',
-        showHeader: true,
         visible:true,
         type:'date'
     }
